@@ -1,5 +1,9 @@
 # LisPy Shepherd
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/lisppy-shepherd.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/lisppy-shepherd.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 **Fleet management for AI agent swarms — steering rules as executable Lisp.**
 
 Code is policy. Policy is code. Edit a `.lisp` file, change how the fleet behaves.
